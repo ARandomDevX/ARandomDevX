@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Ananth! 👋
 
-<!--
-**ARandomDevX/ARandomDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I'm 13 y/o.
+ - I'm a highschooler in Germany.
+ - My hobbies are Badminton and Coding.
+ - I'm actively working on: RealtekWifi
+ 
+ #### Frameworks i use
+ 
+ - IOKit
+ - C++
+ - C
+ - mac80211, cfg80211
+ - OpenCore
+ ... to name a few :)
+ 
+ #### Connect with me 
+ 
+ Email: ananthahalmuttu@gmail.com
+ Twitter: @AnAntsKingdom
