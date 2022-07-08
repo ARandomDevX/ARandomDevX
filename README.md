@@ -16,5 +16,5 @@
  
  #### Connect with me 
  
- Email: ananthahalmuttu@gmail.com
+ Email: ananthahalmuttur@gmail.com
  Twitter: @AnAntsKingdom
