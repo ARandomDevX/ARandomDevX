@@ -5,14 +5,17 @@
  - My hobbies are Badminton and Coding.
  - I'm actively working on: RealtekWifi
  
- #### Frameworks i use
+ #### Languages i'm using
  
- - IOKit
- - C++
- - C
- - mac80211, cfg80211
- - OpenCore
- ... to name a few :)
+  - C/C++
+  - JS
+  - Python
+  - Assembly (custom, x86, x86_64)
+  - Dart
+  - Kotlin
+  - LLVM IR
+
+... to name a few :)
  
  #### Connect with me 
  
